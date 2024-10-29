@@ -419,7 +419,7 @@ Manage plugin settings | *counter-manageSettings* | Can manage plugin settings
 Access plugin widgets  | *counter-accessWidgets* | Can view counter widgets
 
 ## ToDo
-- [ ] Test on the Craft Cloud.
+- [x] Test on the Craft Cloud.
 
 ## Ideas
 - [ ] Provide a caching mechanism for faster widget loads.
