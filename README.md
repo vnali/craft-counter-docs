@@ -76,6 +76,7 @@ Craft 5 and higher.
   - By using this widget, you can view the latest statistics for every desired page of your site.
 - `Next Visited Pages`
   - This widget allows you to analyze which pages users visit after a specific page within a defined number of seconds.
+    - This widget requires a considerable amount of time to load, so it's best to apply it to shorter date ranges only on small to medium-sized websites.
 
 ### Attention:
 - The user preference for the `Week Start Day` only affects the `visits`, `visitors`, `average daily visitors`, `online visitors`, and `max online` widgets for the `thisWeek` date range. It does not impact page-related widgets such as `Top Pages`, `Trending Pages`, `Declining Pages`, `Not Visited Pages`, `Pages Visits Statistics`, and `Next Visited Pages`. The calculations for this week and the previous week for page-related widgets are always based on the selected `start of the week` specified in the plugin settings.
