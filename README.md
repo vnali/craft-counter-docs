@@ -422,7 +422,7 @@ Access plugin widgets  | *counter-accessWidgets* | Can view counter widgets
 ## ToDo
 - [x] Test on the Craft Cloud.
 
-## Ideas
+## Added to 1.0.0-alpha.5
 - [ ] Provide a caching mechanism for faster widget loads.
 - [ ] Implement Ajax load for widgets for better user experience.
       
