@@ -364,6 +364,7 @@ Config items are:
 - `anonymizeIp`: The default value is true, meaning the IP address is anonymized before processing and stored in the database.
 - `ipInEvent`: The default value is false, indicating that the IP address is not included in the event.
 - `anonymizedIpInEvent`: The default value is false, which means that the anonymized IP address is not included in the event.
+- `cacheWidgetsSeconds`: default is 0. when this is not set or is 0, widgets use default caching system so cached results are used as long as the cached data is valid
 
 ## Events
  - EVENT_BEFORE_COUNT
@@ -421,10 +422,8 @@ Access plugin widgets  | *counter-accessWidgets* | Can view counter widgets
 
 ## ToDo
 - [x] Test on the Craft Cloud.
-
-## Added to 1.0.0-alpha.5
-- [ ] Provide a caching mechanism for faster widget loads.
-- [ ] Implement Ajax load for widgets for better user experience.
+- [x] Provide a caching mechanism for faster widget loads.
+- [x] Implement Ajax load for widgets for better user experience.
       
 
 ## FAQ
