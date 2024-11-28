@@ -5,7 +5,7 @@ This Craft CMS plugin helps you to have the site's and page's counter and statis
 This commercial plugin is available through the [Craft plugin store](https://plugins.craftcms.com/developer/vnali).
 
 ## Requirement
-Craft 5 and higher.
+Craft 5/Craft 4.13 or higher.
 
 ## Main features:
 - Count site visits, visitors, and online users.
