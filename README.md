@@ -1,6 +1,9 @@
 # Counter plugin for Craft CMS
 This Craft CMS plugin helps you to have the site's and page's counter and statistics widgets and it works well for small to medium-sized websites.
 
+> 
+> [This plugin has a new documentation page](https://plugins.vnali.dev/counter/).
+
 ## License & Pricing
 This commercial plugin is available through the [Craft plugin store](https://plugins.craftcms.com/developer/vnali).
 
